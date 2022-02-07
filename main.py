@@ -52,3 +52,4 @@ if __name__ == "__main__":
                         if word != "" and len(word) > 1:
                             words.append(word.lower())
                 print("TEXT:", words)
+#Testing new line
